@@ -1,12 +1,6 @@
-
-
-
-#id1{
-  color:blue;
+.bluev p {
+  color: blue;
   font-family: verdana;
 }
-  
-#id2{
-  text-align: center;
-  color: red;
-}
+
+
