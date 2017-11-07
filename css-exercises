@@ -1,0 +1,18 @@
+<html class="gr__justun_github_io"><head>
+  </head>
+  <body style="background-color: purple" ;="" data-gr-c-s-loaded="true">
+    
+    <a href="/index.html">My Home Page</a>
+    <a href="/exercises">Exercises Home Page</a>
+    <a href="/html-reference.html">HTML Reference Page</a>
+  <hr>
+    <h1>CSS Exercise Home Page</h1>
+
+  <ul>
+    <li><a href="setupandselectors.html">setup and selectors</a></li>
+    <li><a href="selectorsandvisualrules.css">selectors and visual rules</a></li>
+  </ul>
+   
+  
+
+</body></html>
